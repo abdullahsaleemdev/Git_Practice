@@ -1,1 +1,2 @@
 This file is for practicing git.
+New branch added in the master
